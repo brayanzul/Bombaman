@@ -1,5 +1,17 @@
 # bombaman
 
+![Captura030](https://user-images.githubusercontent.com/62777613/220653600-16aa573a-e181-4e27-a21c-31cef08f1565.PNG)
+
+# Game Design
+
+This is the entire design of the Bomberman Game, the brown boxes are the obstacles to break with the bomb and the black boxes are the walls
+
+![Captura032](https://user-images.githubusercontent.com/62777613/220653648-bb852f9b-8ef4-4767-b142-c39d6759b623.PNG)
+
+# Game Controls
+
+The Bomberman moves to the right, left up and down with the Arrows and in the center is to put the bomb
+
 A new Flutter project.
 
 ## Getting Started
